@@ -250,11 +250,11 @@ O projeto poderá receber novas funcionalidades, como:
 
 **Projeto:** BuscaCEP — Consulta de Endereços
 
-**Desenvolvido por:** [Seu nome]
+**Desenvolvido por: Heloisa Silva Verly Fonseca
 
-**Disciplina:** [Nome da disciplina]
+**Disciplina: Programação Web II
 
-**Instituição:** [Nome da escola]
+**Instituição: ETEC da Zona Leste
 
 **Ano:** 2026
 
